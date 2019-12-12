@@ -1,0 +1,5 @@
+server:
+ servlet:
+   contextPath: /cloud-api/
+ port: 8020
+ 
